@@ -44,10 +44,10 @@ I specialize in building **scalable REST APIs**, **microservices architectures**
 
 📊 **What I've been up to recently:**
 <!--START_SECTION:waka-->
-```txt 
+
+```txt
 No activity tracked
 ```
-
 
 <!--END_SECTION:waka-->
 
