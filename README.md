@@ -1,6 +1,6 @@
 <!-- Updated banner: coder with futuristic technology -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Coder with Futuristic Technology" width="100%" height="250px"/>
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Coder with Futuristic Technology" width="100%" height="200px"/>
 </p>
 
 ### <samp>&gt; Hello, I'm <a href="http://www.prakashrabidas.in/" target="_blank">Prakash </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp>
