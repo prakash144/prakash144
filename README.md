@@ -29,6 +29,8 @@ I specialize in building **scalable REST APIs**, **microservices architectures**
 
 ### 💼 **A Little More About Me:**
 
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="408" height="250" />
+
 - <img src="https://github.com/prakash144/prakash144/blob/main/assets/developer.gif?raw=true" width="21" /> &nbsp;&nbsp;Currently working on payment security and HSM-based solutions at **Thales**;
 - <img src="https://github.com/prakash144/prakash144/blob/main/assets/lightning.gif?raw=true" width="21" /> &nbsp;&nbsp;Expanding my knowledge in **AI/ML**, **System Design**, and **Cloud-native architectures**;
 - <img src="https://github.com/prakash144/prakash144/blob/main/assets/message.gif?raw=true" width="21" /> &nbsp;&nbsp;Always happy to help with backend development, API security, or cloud solutions;
