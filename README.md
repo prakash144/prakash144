@@ -17,10 +17,11 @@
 
 I'm a **Senior Software Engineer** with a deep passion for backend development, microservices, and cloud technologies. Over the years, I have honed my skills while working at:
 
-![Thales Logo](https://img.shields.io/badge/-Thales-000000?style=flat-square&logo=thales&logoColor=white) 
+![Thales Logo](https://img.shields.io/badge/-Thales-0013de?style=flat-square&logo=thales&logoColor=white) 
+![Guavus Logo](https://img.shields.io/badge/-Guavus-90b493?style=flat-square&logo=thales&logoColor=white)
 ![Oracle Logo](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) 
-![Delhivery Logo](https://img.shields.io/badge/-Delhivery-000000?style=flat-square&logo=delhivery&logoColor=white) 
-![CallHealth Logo](https://img.shields.io/badge/-CallHealth-0E76A8?style=flat-square&logo=callhealth&logoColor=white)
+![Delhivery Logo](https://img.shields.io/badge/-Delhivery-90b493?style=flat-square&logo=delhivery&logoColor=white) 
+![CallHealth Logo](https://img.shields.io/badge/-CallHealth-48bf53?style=flat-square&logo=callhealth&logoColor=white)
 
 I specialize in building **scalable REST APIs**, **microservices architectures**, and **cloud-based solutions**. My expertise is particularly focused on security solutions like **HSM-based architectures** and ensuring systems are robust and efficient.
 
