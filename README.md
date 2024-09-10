@@ -3,6 +3,8 @@
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Coder with Futuristic Technology" width="100%" height="200px"/>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash144&label=Profile%20views&color=0e75b6&style=flat" alt="prakash144" /> </p>
+
 ### <samp>&gt; Hello, I'm <a href="http://www.prakashrabidas.in/" target="_blank">Prakash </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prakashrabidas/)
