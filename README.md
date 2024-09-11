@@ -62,6 +62,13 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 ---
 
+📈 **My Coding Stats:**
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Light_Prakash144)](https://leetcode.com/Light_Prakash144)
+<!-- [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=light144)](<YOUR_LINK_HERE>) -->
+
+---
+
 🛠️ **Technologies I Work With:**  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
