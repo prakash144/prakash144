@@ -62,9 +62,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 📈 **My Coding Stats:**
   <p>
     <a href="https://leetcode.com/Light_Prakash144">
-      <img height="180em" src="https://leetcard.jacoblin.cool/Light_Prakash144" />
+      <img height="170em" src="https://leetcard.jacoblin.cool/Light_Prakash144" />
     </a>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash144&hide_border=false&layout=compact" alt="prakash144" />
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash144&hide_border=false&layout=compact" alt="prakash144" />
   </p>
 <!-- [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=light144)](<YOUR_LINK_HERE>) -->
 <!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
@@ -74,8 +74,8 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 📈 **My GitHub Stats:**
 
 <p> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakash144" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash144&exclude_repo=some-excluded-repo&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> 
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=prakash144" /> 
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash144&exclude_repo=some-excluded-repo&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> 
   <!-- <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash144&hide_border=false&layout=compact" alt="prakash144" /> -->
 </p>
 
