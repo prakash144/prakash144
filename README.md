@@ -62,9 +62,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 📈 **My Coding Stats:**
   <p>
     <a href="https://leetcode.com/Light_Prakash144">
-      <img height="170em" src="https://leetcard.jacoblin.cool/Light_Prakash144" />
+      <img height="160em" src="https://leetcard.jacoblin.cool/Light_Prakash144" />
     </a>
-    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash144&hide_border=false&layout=compact" alt="prakash144" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash144&hide_border=false&layout=compact" alt="prakash144" />
   </p>
 <!-- [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=light144)](<YOUR_LINK_HERE>) -->
 <!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
