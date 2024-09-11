@@ -1,6 +1,11 @@
 <!-- Updated banner: coder with futuristic technology -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Coder with Futuristic Technology" width="100%" height="250px"/>
+  <!-- <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Coder with Futuristic Technology" width="100%" height="250px"/> -->
+  
+  <img src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="Coder with Futuristic Technology" width="100%" height="100%"/>
+
+  <!-- <img src="https://media.licdn.com/dms/image/v2/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1688467501707?e=1731542400&v=beta&t=b7ATm164DJx48lFS0y4gT0OJ2ydaMWVo60MNHjt3GYE" alt="Coder with Futuristic Technology" width="100%" height="100%"/> -->
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash144&label=Profile%20views&color=0e75b6&style=flat" alt="prakash144" /> </p>
@@ -52,20 +57,27 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-📈 **My GitHub Stats:**
-
-<p align="center"> 
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=prakash144" /> 
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash144&exclude_repo=some-excluded-repo&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash144&hide_border=true&layout=compact" alt="prakash144" />
-</p>
-
 ---
 
 📈 **My Coding Stats:**
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Light_Prakash144)](https://leetcode.com/Light_Prakash144)
+  <p>
+    <a href="https://leetcode.com/Light_Prakash144">
+      <img height="160em" src="https://leetcard.jacoblin.cool/Light_Prakash144" />
+    </a>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash144&hide_border=false&layout=compact" alt="prakash144" />
+  </p>
 <!-- [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=light144)](<YOUR_LINK_HERE>) -->
+<!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
+
+---
+
+📈 **My GitHub Stats:**
+
+<p> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=prakash144" /> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash144&exclude_repo=some-excluded-repo&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> 
+  <!-- <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash144&hide_border=false&layout=compact" alt="prakash144" /> -->
+</p>
 
 ---
 
