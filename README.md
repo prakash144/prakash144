@@ -1,6 +1,6 @@
 <!-- Updated banner: coder with futuristic technology -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Coder with Futuristic Technology" width="100%" height="200px"/>
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Coder with Futuristic Technology" width="100%" height="250px"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash144&label=Profile%20views&color=0e75b6&style=flat" alt="prakash144" /> </p>
@@ -63,6 +63,7 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 ---
 
 🛠️ **Technologies I Work With:**  
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
