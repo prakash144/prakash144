@@ -51,7 +51,11 @@ I specialize in building **scalable REST APIs**, **microservices architectures**
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         25 mins         ████████████████▒░░░░░░░░   65.01 %
+JavaScript   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+Markdown     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Python       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+INI          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
