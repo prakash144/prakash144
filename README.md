@@ -72,16 +72,18 @@ XML               3 mins          ▒░░░░░░░░░░░░░░�
 <!-- [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=light144)](<YOUR_LINK_HERE>) -->
 <!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
 
+<!-- Commented My GitHub Stats
 ---
 
 📈 **My GitHub Stats:**
 
 <p> 
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=prakash144" /> 
-  <!-- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash144&exclude_repo=some-excluded-repo&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> -->
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash144&exclude_repo=some-excluded-repo&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
 </p>
 
 ---
+-->
 
 🛠️ **Technologies I Work With:**  
 
