@@ -78,8 +78,7 @@ XML               3 mins          ▒░░░░░░░░░░░░░░�
 
 <p> 
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=prakash144" /> 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash144&exclude_repo=some-excluded-repo&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> 
-  <!-- <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash144&hide_border=false&layout=compact" alt="prakash144" /> -->
+  <!-- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash144&exclude_repo=some-excluded-repo&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> -->
 </p>
 
 ---
