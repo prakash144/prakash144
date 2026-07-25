@@ -24,6 +24,7 @@
 
 I'm a **Senior Software Engineer** with a deep passion for backend development, microservices, and cloud technologies. Over the years, I have honed my skills while working at:
 
+![UKG Logo](https://img.shields.io/badge/-ukg-005151?style=flat-square&logo=thales&logoColor=white)
 ![Thales Logo](https://img.shields.io/badge/-Thales-0013de?style=flat-square&logo=thales&logoColor=white) 
 ![Guavus Logo](https://img.shields.io/badge/-Guavus-90b493?style=flat-square&logo=thales&logoColor=white)
 ![Oracle Logo](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) 
