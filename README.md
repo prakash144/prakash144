@@ -52,11 +52,11 @@ I specialize in building **scalable REST APIs**, **microservices architectures**
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 hrs 2 mins          █████████████▓░░░░░░░░░░░   55.30 %
-Java       2 hrs 16 mins         ██████████▒░░░░░░░░░░░░░░   41.32 %
-XML        7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-SQL        3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Java       2 hrs 16 mins         ███████████████████░░░░░░   76.11 %
+Markdown   31 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+XML        7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+SQL        3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
