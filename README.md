@@ -52,7 +52,10 @@ I specialize in building **scalable REST APIs**, **microservices architectures**
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file   0 secs                █████████████████████████   100.00 %
+Bash             11 mins               █████████████▓░░░░░░░░░░░   55.25 %
+JSON             6 mins                ████████▒░░░░░░░░░░░░░░░░   33.22 %
+Markdown         2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
